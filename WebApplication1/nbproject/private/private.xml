@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/dao/ItemOrderDAO.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/DirectOrder.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/SupplierStatistics.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/servlet/InvoiceController.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/Supplier.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/OnlineOrder.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/web/view/Staff/InvoiceView.jsp</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/dao/InvoiceDAO.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/dao/StaffDAO.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/ImportInvoice.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/web/view/Staff/CustomerInvoiceView.jsp</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/CustomerStatistics.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/servlet/CustomerStatisticsController.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/Customer.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/ItemStatistics.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/web/view/Staff/StaffMenuView.jsp</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/web/MenuView.jsp</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/dao/CustomerStatisticsDAO.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/User.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/Staff.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/Order.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/dao/DAO.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/ImportItem.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/servlet/StaffController.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/ItemOrder.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/servlet/CustomerController.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/web/view/Staff/CustomerStatisticsView.jsp</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/Item.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/servlet/ItemOrderController.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/dao/CustomerDAO.java</file>
+            <file>file:/C:/Users/User/Desktop/tai-lieu-hoc-tap/PTTK%20HT/Code/WebApplication1/src/java/model/Invoice.java</file>
+        </group>
+    </open-files>
+</project-private>
